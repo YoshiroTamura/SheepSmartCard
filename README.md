@@ -18,7 +18,7 @@ Smart Card : Mifare or FeliCa
 &nbsp;&nbsp;- 32 bit application on 64 bit operating system : SheepSmartCard32.dll to C:\Windows\SysWOW64  
 &nbsp;&nbsp;- 32 bit operating system : SheepSmartCard32.dll to C:\Windows\System32  
 2. Call dll and define a function named GetSmartCardUID.  
-&nbsp;I provide sample code for [Visual C#](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleCs), Visual Basic, and VBA (Excel, Access). Please check those.    
+&nbsp;I provide sample code for [Visual C#](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleCs), [Visual Basic](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleVb), and VBA (Excel, Access). Please check those.    
 
 ## License
 [MIT License](https://github.com/YoshiroTamura/SheepSmartCard/blob/master/LICENSE) © Yoshiro Tamura
