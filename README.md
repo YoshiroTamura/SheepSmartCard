@@ -13,7 +13,7 @@ Smart Card : Mifare or FeliCa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Does not support Type-B card because it returns random ID (PUPI).  
 
 ## Usage
-1. Download and place dll to your system directory.
-&nbsp;&nbsp;- 64 bit application on 64 bit operating system : SheepSmartCard64.dll to C:\Windows\System32 
-&nbsp;&nbsp;- 32 bit application on 64 bit operating system : SheepSmartCard32.dll to C:\Windows\SysWOW64
-&nbsp;&nbsp;- 32 bit operating system : SheepSmartCard32.dll to C:\Windows\System32
+1. Download and place dll to your system directory.  
+&nbsp;&nbsp;- 64 bit application on 64 bit operating system : SheepSmartCard64.dll to C:\Windows\System32   
+&nbsp;&nbsp;- 32 bit application on 64 bit operating system : SheepSmartCard32.dll to C:\Windows\SysWOW64  
+&nbsp;&nbsp;- 32 bit operating system : SheepSmartCard32.dll to C:\Windows\System32  
