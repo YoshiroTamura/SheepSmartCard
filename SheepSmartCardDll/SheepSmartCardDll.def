@@ -1,0 +1,3 @@
+LIBRARY SheepSmartCardDll
+EXPORTS
+    GetSmartCardUID
