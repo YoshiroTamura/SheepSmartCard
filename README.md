@@ -3,7 +3,8 @@
 SheepSmartCard DLL is a dynamic link library to read smart card ID.
 
 ## Description
-SheepSmartCard DLL calls WinScard API(winscard.dll) and read an unique ID that any smart cards have, "UID" of RFID Type A (Mifare) and "IDm" of RFID Type F (FeliCa).
+SheepSmartCard DLL calls WinScard API(winscard.dll) and read an unique ID that any smart cards have, 'UID' of RFID Type A (Mifare) and 'IDm' of RFID Type F (FeliCa).
+
 This library only reads ID, so you do not worry about the card information leaking and changing by using it.
 
 ##Requirement
