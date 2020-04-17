@@ -18,7 +18,8 @@ Smart Card : Mifare (Classic, Ultralight) / FeliCa
 &nbsp;&nbsp;- 32 bit application on 64 bit operating system : SheepSmartCard32.dll to C:\Windows\SysWOW64  
 &nbsp;&nbsp;- 32 bit operating system : SheepSmartCard32.dll to C:\Windows\System32  
 2. Call dll and define a function named GetSmartCardUID.  
-&nbsp;I provide sample code for [Visual C#](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleCs), [Visual Basic](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleVb), and VBA ([Excel](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleExcel), [Access](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleAccess)). Please check those.    
+&nbsp;I provide sample code for [Visual C#](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleCs), [Visual Basic](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleVb), and VBA ([Excel](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleExcel), [Access](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleAccess)). Please check those.
+<img src="./images/sample_snapshot1.png" width="300px" style="margin:20px;" alt="Sample Snapshot 1"><img src="./images/sample_snapshot2.png" width="300px" style="margin:10px;" alt="Sample Snapshot 2">
 
 ## License
 [MIT License](https://github.com/YoshiroTamura/SheepSmartCard/blob/master/LICENSE) © Yoshiro Tamura  
