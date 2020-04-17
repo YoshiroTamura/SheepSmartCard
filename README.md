@@ -20,6 +20,7 @@ Smart Card : Mifare (Classic, Ultralight) / FeliCa
 2. Call dll and define a function named GetSmartCardUID.  
 &nbsp;I provide sample code for [Visual C#](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleCs), [Visual Basic](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleVb), and VBA ([Excel](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleExcel), [Access](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleAccess)). Please check those.
 
+##### Snapshots of sample
 <img src="./images/sample_snapshot1.png" width="300px" style="margin:10px;" alt="Sample Snapshot 1">&nbsp;&nbsp;
 <img src="./images/sample_snapshot2.png" width="300px" style="margin:10px;" alt="Sample Snapshot 2">
 
