@@ -21,4 +21,9 @@ Smart Card : Mifare or FeliCa
 &nbsp;I provide sample code for [Visual C#](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleCs), [Visual Basic](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleVb), and VBA ([Excel](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleExcel), [Access](https://github.com/YoshiroTamura/SheepSmartCard/tree/master/SheepSmartCardSampleAccess)). Please check those.    
 
 ## License
-[MIT License](https://github.com/YoshiroTamura/SheepSmartCard/blob/master/LICENSE) © Yoshiro Tamura
+[MIT License](https://github.com/YoshiroTamura/SheepSmartCard/blob/master/LICENSE) © Yoshiro Tamura  
+
+## Author
+[Yoshiro Tamura](https://www.eclip.jp)
+&nbsp;&nbsp;IT engineer, used to be a shepherd.
+
