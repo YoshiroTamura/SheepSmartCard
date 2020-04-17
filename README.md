@@ -8,8 +8,8 @@ This library only reads ID, so you do not worry about the card information leaki
 
 ## Requirement
 OS : Windows 10 / Windows 7  
-Card Reader : Supports ISO 14443 Type-A (Mifare) or NFC Type-F (FeliCa)  
-Smart Card : Mifare or FeliCa  
+Card Reader : Supports ISO 14443 Type-A (Mifare) / NFC Type-F (FeliCa)  
+Smart Card : Mifare (Standard,UltraLight) / FeliCa  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Does not support Type-B card because it returns random ID (PUPI).  
 
 ## Usage
